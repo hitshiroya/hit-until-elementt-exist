@@ -1,0 +1,18 @@
+{
+  "name": "hit-until-element-exist",
+  "version": "1.0.0",
+  "description": "npm package to hit the try until elmenet is present",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "custom-command",
+    "hit-until-element-exist",
+    "recursion",
+    "repetitive reload cycle"
+  ],
+  "author": "Hit Shiroya",
+  "license": "MIT"
+}
